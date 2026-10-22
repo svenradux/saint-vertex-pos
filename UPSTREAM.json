@@ -1,0 +1,19 @@
+{
+  "upstream": {
+    "commit": "488573a38503940031a447ac2e5850ff76ca2047",
+    "repository": "https://github.com/Blair2004/NexoPOS",
+    "tag": "v6.2.4"
+  },
+  "downloadHashes": {
+    "mariadb.zip": "FB7C76F0804321EE373DAA49145F2056D2D88F321B614130ADEB05A1644EA003",
+    "node.zip": "F9683A19877E12A9B167305C8DB71040D812876359DE21F0D2E97C3F321F80C3",
+    "php.zip": "DA68394F9193B7F6B89D0C76861A4034AE10EFEE7FD55A7255D8118C2ACF70D7",
+    "nginx.zip": "C6EE35EDB0A861063323F709192AE50D1EEFAF2EA7D00678BD2B22D8542DC61E"
+  },
+  "runtime": {
+    "node": "24.22.0",
+    "nginx": "1.30.6",
+    "php": "8.4.26",
+    "mariadb": "11.4.10"
+  }
+}

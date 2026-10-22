@@ -1,0 +1,8 @@
+<!-- Copyright © 2026 Saint Vertex. Original simplified brand mark. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 72" fill="none">
+  <title>Saint Vertex</title>
+  <!-- Simplified spear, paired wings and four-point star from the original emblem. -->
+  <path d="M32 3 44 27 32 60 20 27Z" stroke="#9CD5FF" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M27 46C20 24 4 22 5 36c.5 6 6 9 10 5-4 0-6-5-3-7 5-3 12 10 20 30 8-20 15-33 20-30 3 2 1 7-3 7 4 4 9.5 1 10-5 1-14-15-12-22 10" fill="#9CD5FF"/>
+  <path d="m32 21 2.5 8.5L43 32l-8.5 2.5L32 43l-2.5-8.5L21 32l8.5-2.5Z" fill="#E6F5FF"/>
+</svg>

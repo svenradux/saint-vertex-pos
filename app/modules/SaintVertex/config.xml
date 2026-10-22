@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<module>
+    <namespace>SaintVertex</namespace>
+    <version>1.0.0</version>
+    <author>Saint Vertex</author>
+    <name>Saint Vertex Branding</name>
+    <description>
+        <locale lang="en">Local Vertex POS identification and colors</locale>
+    </description>
+</module>
